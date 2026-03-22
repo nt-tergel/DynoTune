@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DynoTune (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DynoTune (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
